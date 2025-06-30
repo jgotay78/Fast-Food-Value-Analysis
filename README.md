@@ -4,3 +4,8 @@ This Tableau dashboard analyzes popular menu items from six major U.S. fast food
 helping consumers identify which meals offer the most nutritional value for their money. By
 comparing calories, protein content, and cost per item, the dashboard highlights which chains
 offer high-protein, low-cost options and which meals may be overpriced for what they deliver.
+
+View Live Dashboard
+https://public.tableau.com/app/profile/joselyn.gotay/viz/FastFoodValueAnalysisProteinvsPrice/Dashboard1
+
+
